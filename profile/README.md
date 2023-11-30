@@ -14,3 +14,14 @@ Pour lancer le projet, il faut cloner les 2 repo git de l'organisation.
 
 Voir leurs ReadMe Respectifs pour les faire fonctionner.
 
+## Principales Fonctionnalitées
+
+### Back
+TODO: api avec autodecouvrabilite, doc, cache, back office, images?
+
+### Front
+TODO: Map,API externe (meteo) , hooks , token de connection
+
+## Evolution envisagée
+Ameliorer l interface
+seul la personne qui creer la station peut en modifier le contenu (readonly pour les autres)
