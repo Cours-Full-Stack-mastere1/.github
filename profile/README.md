@@ -17,11 +17,15 @@ Voir leurs ReadMe Respectifs pour les faire fonctionner.
 ## Principales Fonctionnalitées
 
 ### Back
-TODO: api avec autodecouvrabilite, doc, cache, back office, images?
+On peut retrouver les fonctionnalitées suivantes dans le back: des apis avec de l'autodecouvrabilite, une documentation, du cache et un back office
 
 ### Front
-TODO: Map,API externe (meteo) , hooks , token de connection
+On peut retrouver les fonctionnalitées suivantes dans le front: une api ecterne pour la meteo, des affichages de map avec leaflet, des utilisations de hook, la gestion du token de connexion
 
 ## Evolution envisagée
-Ameliorer l interface
-seul la personne qui creer la station peut en modifier le contenu (readonly pour les autres)
+Ameliorer l interface et du css à revoir.
+
+## Bugs connus
+Bug sur le back office pour creer ou modifier des données.
+Le filtre sur les pistes a un probleme dans le back.
+Et les updates ont mal ete implémentées dans le back ce qui fait qu elles ne sont pas effectives dans le front
